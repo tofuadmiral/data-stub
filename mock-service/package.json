@@ -1,0 +1,11 @@
+{
+  "name": "mock-service",
+  "version": "1.0.0",
+  "description": "an app to mock services so tests can run in a stable fashion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
